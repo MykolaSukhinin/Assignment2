@@ -1,2 +1,2 @@
-a = int(input())
-print(a+1)
+a = 'Hello, Python Woprld!'
+print(a) 
